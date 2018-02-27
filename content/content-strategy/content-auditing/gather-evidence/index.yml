@@ -11,6 +11,8 @@ main:
   - sections.md
   - spreadsheet-head.md          # Start a spreadsheet
   - spreadsheet.md
+  - attachment-block.md
+  - audit-example.md
   - categorise-head.md          # Categorise the data
   - categorise.md
   - assign-head.md          # Assign owners

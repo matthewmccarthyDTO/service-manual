@@ -1,7 +1,7 @@
 ---
 layout: nav/sections
 sections:
-  - Start a spreadsheet
+  - Start your audit
   - Categorise the data
   - Assign owners
   - Next steps

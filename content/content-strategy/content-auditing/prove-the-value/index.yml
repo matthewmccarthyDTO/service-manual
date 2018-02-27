@@ -17,6 +17,7 @@ main:
   - inefficiencies.md
   - benchmark-head.md          # Compare yours with similar government sites
   - benchmark.md
+  - key-takeaway.md
   - user-feedback-head.md          # Get direct user feedback to build empathy with the users
   - user-feedback.md
   - /_shared/feedback.md

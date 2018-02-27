@@ -1,5 +1,6 @@
 ---
 layout: cards/cards
+---
 cards:
   - headline: Step 1. Prove the value
     text: One of the first questions you may be asked when pitching a content audit project, is what the return on investment will be.
@@ -19,5 +20,3 @@ cards:
   - headline: Step 6. Action your audit
     text: After you’ve assessed all the content in the scope of your audit, you will need to report on your findings to get stakeholder support to action the data.
     link: '/content-strategy/content-auditing/action-your-audit/'
- 
----

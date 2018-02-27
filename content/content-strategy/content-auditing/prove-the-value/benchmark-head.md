@@ -1,4 +1,4 @@
 ---
 layout: nav/section
-section: Benchmark your site
+section: Baseline your site
 ---

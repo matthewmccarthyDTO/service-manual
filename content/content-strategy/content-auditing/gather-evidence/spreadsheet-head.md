@@ -1,4 +1,4 @@
 ---
 layout: nav/section
-section: Start a spreadsheet
+section: Start your audit
 ---
