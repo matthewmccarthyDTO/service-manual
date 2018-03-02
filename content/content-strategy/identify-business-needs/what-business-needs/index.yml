@@ -1,13 +1,27 @@
 pagetitle: What business needs to look for
+description: You’ll hear a wide range of business objectives. Know what you’re looking for before you begin.
 weight: 10
+layout: layout/topic
 theme: blue
-description:
 header:
   - /_shared/globalheader.md
   - /_shared/header.md
 main:
   - intro.md
-  - block-1.md
+  - sections.md
+  - strategic-pyramid-head.md
+  - strategic-pyramid.md
+  - vision.md
+  - vision-example.md
+  - mission.md
+  - mission-example.md
+  - goals.md
+  - goals-example.md
+  - strategies.md
+  - strategies-example.md
+  - objectives.md
+  - objectives-example.md
+  - other-things.md
   - /_shared/feedback.md
 footer:
   - /_shared/footer.md

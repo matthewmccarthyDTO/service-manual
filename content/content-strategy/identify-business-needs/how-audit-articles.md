@@ -1,22 +1,23 @@
 ---
 layout: cards/cards
 cards:
-  - headline: Lorem ipsum dolor sit ame
+  - headline: Lorem ipsum dolor sit amet
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lorem mi, iaculis ut eleifend et, convallis et libero. Ut sed congue magna. Sed id bibendum felis. 
     link: '/content-strategy/content-auditing/prove-the-value/'
-  - headline: Lorem ipsum dolor sit ame
+  - headline: Lorem ipsum dolor sit amet
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lorem mi, iaculis ut eleifend et, convallis et libero. Ut sed congue magna. Sed id bibendum felis. 
     link: '/content-strategy/content-auditing/plan-your-audit/'
-  - headline: Lorem ipsum dolor sit ame
+  - headline: Lorem ipsum dolor sit amet
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lorem mi, iaculis ut eleifend et, convallis et libero. Ut sed congue magna. Sed id bibendum felis. 
     link: '/content-strategy/content-auditing/engage-your-stakeholders/'
-  - headline: Lorem ipsum dolor sit ame
+  - headline: Lorem ipsum dolor sit amet
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lorem mi, iaculis ut eleifend et, convallis et libero. Ut sed congue magna. Sed id bibendum felis. 
     link: '/content-strategy/content-auditing/gather-evidence/'
-  - headline: Step 5. Lorem ipsum dolor sit ame
+  - headline: Lorem ipsum dolor sit amet
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lorem mi, iaculis ut eleifend et, convallis et libero. Ut sed congue magna. Sed id bibendum felis. 
-    link: '/content-strategy/content-auditing/analyse-and-evaluate/'
-  - headline: Step 6. Lorem ipsum dolor sit ame
+    link: '/#/'
+  - headline: Lorem ipsum dolor sit amet
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lorem mi, iaculis ut eleifend et, convallis et libero. Ut sed congue magna. Sed id bibendum felis. 
-    link: '/content-strategy/content-auditing/action-your-audit/'
+    link: '/#/'
+
 ---
